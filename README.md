@@ -1,5 +1,5 @@
 # Home_Sales
-MOre expensive a house is, the more expensive and most views it had. 
+The more expensive a house is, it gets more views. 
 In addition, catching data makes the processing time a little faster than normal data. After clearing the cache, it also makes the processing time a little faster. 
 
 ## What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
@@ -40,3 +40,6 @@ Houses prices over One Million had more views, about 100 views than cheaper hous
 ## Using the cached data, run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 Cached data of Houses prices over One Million had more views, about 100 views than cheaper houses, and it took about 0.34seconds. 
 Uncatched data of Houses prices over One Million had more views, about 100 views than cheaper houses, and it took about 0.31seconds. 
+
+
+Questions came up as I was completing the challenge, so I reached out for help to chatgpd and looked over recordings. 
