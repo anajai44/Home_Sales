@@ -42,4 +42,6 @@ Cached data of Houses prices over One Million had more views, about 100 views th
 Uncatched data of Houses prices over One Million had more views, about 100 views than cheaper houses, and it took about 0.31seconds. 
 
 
+
+
 Questions came up as I was completing the challenge, so I reached out for help to chatgpd and looked over recordings. 
